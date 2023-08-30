@@ -8,4 +8,6 @@ MovieLens 20M Dataset https://download.csdn.net/download/guotong1988/85505311
 
 MovieLens 25M Dataset https://download.csdn.net/download/guotong1988/85396205
 
-criteo dataset https://download.csdn.net/download/guotong1988/85042834 https://download.csdn.net/download/guotong1988/85042833 https://download.csdn.net/download/guotong1988/85042767
+criteo dataset （CTR数据集） https://download.csdn.net/download/guotong1988/85042834 https://download.csdn.net/download/guotong1988/85042833 https://download.csdn.net/download/guotong1988/85042767
+
+avazu dataset （CTR数据集） https://download.csdn.net/download/guotong1988/85041982
