@@ -31,7 +31,7 @@ wikitext 103 数据集 https://download.csdn.net/download/guotong1988/10968818
 
 机器翻译WMT14数据集 https://download.csdn.net/download/guotong1988/10335625
 
-WikiMovies 数据集 https://download.csdn.net/download/guotong1988/10282115
+WikiMovies dataset https://download.csdn.net/download/guotong1988/10282115
 
-NLPIR新闻语料库 https://download.csdn.net/download/guotong1988/88275803
+NLPIR新闻预训练数据 https://download.csdn.net/download/guotong1988/88275803
 
