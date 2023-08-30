@@ -34,4 +34,5 @@ wikitext 103 数据集 https://download.csdn.net/download/guotong1988/10968818
 
 WikiMovies 数据集 https://download.csdn.net/download/guotong1988/10282115
 
+NLPIR新闻语料库 https://download.csdn.net/download/guotong1988/88275803
 
