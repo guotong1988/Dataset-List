@@ -7,13 +7,13 @@
 
 [MovieLens 25M Dataset](https://download.csdn.net/download/guotong1988/85396205)
 
-[criteo dataset（CTR数据集）](https://download.csdn.net/download/guotong1988/85042834 https://download.csdn.net/download/guotong1988/85042833 https://download.csdn.net/download/guotong1988/85042767)
+[criteo dataset（CTR数据集）part1](https://download.csdn.net/download/guotong1988/85042834 [criteo dataset（CTR数据集）part2](https://download.csdn.net/download/guotong1988/85042833) [criteo dataset（CTR数据集）part3](https://download.csdn.net/download/guotong1988/85042767)
 
 [avazu dataset（CTR数据集）](https://download.csdn.net/download/guotong1988/85041982)
 
-[英文BERT论文预训练数据](https://download.csdn.net/download/guotong1988/16200194 https://download.csdn.net/download/guotong1988/16200758)
+[英文BERT论文预训练数据 part1](https://download.csdn.net/download/guotong1988/16200194) [英文BERT论文预训练数据 part2](https://download.csdn.net/download/guotong1988/16200758)
 
-[14G的中文预训练数据](https://download.csdn.net/download/guotong1988/12599202 https://download.csdn.net/download/guotong1988/12599183 https://download.csdn.net/download/guotong1988/12599200)
+[14G的中文预训练数据 part1](https://download.csdn.net/download/guotong1988/12599202) [14G的中文预训练数据 part2](https://download.csdn.net/download/guotong1988/12599183) [14G的中文预训练数据 part3](https://download.csdn.net/download/guotong1988/12599200)
 
 [维基百科中文预训练数据](https://download.csdn.net/download/guotong1988/12599092)
 
@@ -27,7 +27,7 @@
 
 [wikitext 103 数据集](https://download.csdn.net/download/guotong1988/10968818)
 
-[知乎文本分类数据集](https://download.csdn.net/download/guotong1988/10544080 https://download.csdn.net/download/guotong1988/10544109)
+[知乎文本分类数据集 part1](https://download.csdn.net/download/guotong1988/10544080) [知乎文本分类数据集 part1](https://download.csdn.net/download/guotong1988/10544109)
 
 [机器翻译WMT14数据集](https://download.csdn.net/download/guotong1988/10335625)
 
