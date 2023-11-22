@@ -1,4 +1,6 @@
 
+https://huggingface.co/datasets/liwu/MNBVC
+
 [CLUE AFQMC 语义相似度 数据集](https://download.csdn.net/download/guotong1988/88086232)
 
 [CLUE TNEWS 文本分类数据集](https://download.csdn.net/download/guotong1988/88086230)
@@ -34,4 +36,5 @@
 [WikiMovies dataset](https://download.csdn.net/download/guotong1988/10282115)
 
 [NLPIR新闻预训练数据](https://download.csdn.net/download/guotong1988/88275803)
+
 
